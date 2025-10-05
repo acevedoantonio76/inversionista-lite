@@ -1,0 +1,10 @@
+[
+  { "name": "Ken Griffin", "style": "Multi-estrategia", "horizon": "Mediano", "strategy": "Market-making, arbitraje, macro", "risk": 3 },
+  { "name": "Jim Simons", "style": "Cuantitativo", "horizon": "Corto", "strategy": "Modelos estadísticos, alta rotación", "risk": 4 },
+  { "name": "George Soros", "style": "Macro global", "horizon": "Variable", "strategy": "Apuestas macro asimétricas", "risk": 4 },
+  { "name": "Paul Tudor Jones", "style": "Macro/Técnico", "horizon": "Corto–Mediano", "strategy": "Momentum, macro cíclico", "risk": 3 },
+  { "name": "Steve Cohen", "style": "Long/Short", "horizon": "Corto", "strategy": "Eventos, fundamental con trading activo", "risk": 4 },
+  { "name": "Bill Ackman", "style": "Activista", "horizon": "Largo", "strategy": "Posiciones concentradas y catalizadores", "risk": 3 },
+  { "name": "Jim Chanos", "style": "Short seller", "horizon": "Mediano", "strategy": "Ventas en corto por fraude/valoración", "risk": 5 },
+  { "name": "Alejandro Cardona", "style": "—", "horizon": "—", "strategy": "—", "risk": 2 }
+]
