@@ -8,3 +8,13 @@
   { "name": "Jim Chanos", "style": "Short seller", "horizon": "Mediano", "strategy": "Ventas en corto por fraude/valoración", "risk": 5 },
   { "name": "Alejandro Cardona", "style": "—", "horizon": "—", "strategy": "—", "risk": 2 }
 ]
+[
+  { "name": "Ken Griffin", "style": "Multi-estrategia", "horizon": "Mediano", "strategy": "Market-making, arbitraje, macro", "risk": 3, "notes": "Foco en ejecución y diversificación por desks." },
+  { "name": "Jim Simons", "style": "Cuantitativo", "horizon": "Corto", "strategy": "Modelos estadísticos, alta rotación", "risk": 4, "notes": "Señales sistemáticas; prioridad a datos limpios." },
+  { "name": "George Soros", "style": "Macro global", "horizon": "Variable", "strategy": "Apuestas macro asimétricas", "risk": 4, "notes": "Convicción en eventos macro y reflexividad." },
+  { "name": "Paul Tudor Jones", "style": "Macro/Técnico", "horizon": "Corto–Mediano", "strategy": "Momentum, macro cíclico", "risk": 3, "notes": "Disciplina de riesgo estricta." },
+  { "name": "Steve Cohen", "style": "Long/Short", "horizon": "Corto", "strategy": "Eventos, fundamental con trading activo", "risk": 4, "notes": "Velocidad táctica; edge por información pública rápida." },
+  { "name": "Bill Ackman", "style": "Activista", "horizon": "Largo", "strategy": "Posiciones concentradas y catalizadores", "risk": 3, "notes": "Narrativas claras y comunicación activa al mercado." },
+  { "name": "Jim Chanos", "style": "Short seller", "horizon": "Mediano", "strategy": "Ventas en corto por fraude/valoración", "risk": 5, "notes": "Tesis cortas dependen de timing y catalizadores." },
+  { "name": "Alejandro Cardona", "style": "—", "horizon": "—", "strategy": "—", "risk": 2, "notes": "Espacio para completar tu ficha." }
+]
