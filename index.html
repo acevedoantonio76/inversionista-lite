@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>Panel de Inversionistas · Lite</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>Panel de Inversionistas · Lite</h1>
+    <input id="q" type="search" placeholder="Buscar por nombre, estilo o estrategia…" />
+  </header>
+
+  <main id="list" class="grid"></main>
+
+  <footer class="foot">
+    <small>Hecho por Antonio · funciona en GitHub Pages y como PWA</small>
+  </footer>
+
+  <script src="./app.js" defer></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./sw.js").catch(console.error);
+    }
+  </script>
+</body>
+</html>
